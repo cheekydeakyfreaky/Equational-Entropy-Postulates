@@ -38,15 +38,11 @@ This work is in progress and currently submitted as a draft to the History and P
 I am currently seeking endorsement for submission.
 
 
-Files
-
-equational_entropy.tex — Main LaTeX source file
-
-equational_entropy.pdf — Compiled PDF draft (coming soon)
+Files:
+https://drive.google.com/file/d/1AZG80VzUrZByzV2Gpw4Wak0NN7YQN37O/view?usp=drivesdk
 
 
-Contact
-
+Contact:
 For questions or endorsements, feel free to reach out: Joshua Dizon
 
 Email: [joshuadizon6660@gmail.com]
@@ -54,8 +50,7 @@ Email: [joshuadizon6660@gmail.com]
 GitHub: https://github.com/cheekydeakyfreaky/equational-entropy
 
 
-License
-
+License:
 This work is distributed under the Creative Commons CC BY license. Attribution required if reused.
 
 
