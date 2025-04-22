@@ -8,8 +8,12 @@ This repository contains a preliminary draft and related materials for the conce
 
 Equational Entropy (`E`) is defined as the sum of:
 
-- **Conceptual Novelty (`N`)** — How much new physics an equation introduces (e.g., principles, constants)
+- **Conceptual Novelty (`N`)** — How much new physics an equation introduces (e.g., new principles, constants)
 - **Structural Complexity (`C`)** — The symbolic and mathematical complexity of the equation, reduced by its symmetries
+
+**Key Equation:**
+
+E = N + C
 
 This framework aims to:
 - Quantify elegance and efficiency in theoretical physics
@@ -18,26 +22,17 @@ This framework aims to:
 
 ---
 
-## Key Equation
-
-**E = N + C**
-
----
-
 ## Status
 
-This work is **in progress** and has been submitted as a draft to the *History and Philosophy of Physics* category on arXiv.  
-I am currently seeking endorsement for submission.
+This work is **in progress** and currently under consideration for submission to the *History and Philosophy of Physics* category on arXiv.  
+I am actively seeking endorsement for submission.
 
 ---
 
-## Files
+## Access the Draft
 
-- View the PDF draft here:  
-  [Equational_Entropy.pdf on Google Drive](https://drive.google.com/file/d/1AZG80VzUrZByzV2Gpw4Wak0NN7YQN37O/view?usp=drivesdk)
-
-- Full source and repository:  
-  [GitHub Repo](https://github.com/cheekydeakyfreaky/equational-entropy)
+- **View the full draft PDF and LaTeX source on GitHub:**  
+  [https://github.com/cheekydeakyfreaky/Equational-Entropy-Postulates](https://github.com/cheekydeakyfreaky/Equational-Entropy-Postulates)
 
 ---
 
@@ -52,9 +47,10 @@ GitHub: [@cheekydeakyfreaky](https://github.com/cheekydeakyfreaky)
 ## License
 
 This work is distributed under the **Creative Commons CC BY** license.  
-Attribution required if reused or referenced.
+Attribution is required if reused or cited.
 
 ---
 
 > *Originally conceived on March 18, 2025.*  
 > *“Not just describing nature, but describing the cost of describing nature.”*
+
